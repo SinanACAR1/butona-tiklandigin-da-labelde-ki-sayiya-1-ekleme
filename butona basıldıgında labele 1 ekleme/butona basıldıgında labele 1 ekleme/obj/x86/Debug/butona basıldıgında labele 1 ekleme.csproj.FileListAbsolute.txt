@@ -1,0 +1,8 @@
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\butona basıldıgında labele 1 ekleme\butona basıldıgında labele 1 ekleme\bin\Debug\butona basıldıgında labele 1 ekleme.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\butona basıldıgında labele 1 ekleme\butona basıldıgında labele 1 ekleme\bin\Debug\butona basıldıgında labele 1 ekleme.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\butona basıldıgında labele 1 ekleme\butona basıldıgında labele 1 ekleme\obj\x86\Debug\butona basıldıgında labele 1 ekleme.csprojResolveAssemblyReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\butona basıldıgında labele 1 ekleme\butona basıldıgında labele 1 ekleme\obj\x86\Debug\dizin_oluşturma.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\butona basıldıgında labele 1 ekleme\butona basıldıgında labele 1 ekleme\obj\x86\Debug\dizin_oluşturma.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\butona basıldıgında labele 1 ekleme\butona basıldıgında labele 1 ekleme\obj\x86\Debug\butona basıldıgında labele 1 ekleme.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\butona basıldıgında labele 1 ekleme\butona basıldıgında labele 1 ekleme\obj\x86\Debug\butona basıldıgında labele 1 ekleme.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\butona basıldıgında labele 1 ekleme\butona basıldıgında labele 1 ekleme\obj\x86\Debug\butona basıldıgında labele 1 ekleme.pdb
